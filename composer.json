@@ -1,0 +1,12 @@
+{
+  "name": "dany/smtp-tester",
+  "type": "project",
+  "require": {
+    "phpmailer/phpmailer": "^6.10"
+  },
+  "autoload": {
+    "psr-4": {
+      "App\\": "src/"
+    }
+  }
+}
