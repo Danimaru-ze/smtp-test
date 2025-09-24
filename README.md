@@ -2,9 +2,13 @@
 
 <div align="center">
 
+![Tampilan](https://cdn.danimaru.site/f/mcPtaIN)
+![Tampilan](https://cdn.danimaru.site/f/B1eA5gj)
+![Hasil](https://cdn.danimaru.site/f/XJXa8Ok)
+
 **Alat testing email SMTP modern dengan UI yang menawan dan dukungan mode gelap/terang**
 
-[🚀 Demo Langsung](#demo) • [📖 Dokumentasi](https://github.com/Danimaru-ze/smtp-test) • [🎨 Fitur]((https://github.com/Danimaru-ze/smtp-test)) • [⚡ Panduan Cepat]((https://github.com/Danimaru-ze/smtp-test))
+[📖 Dokumentasi](https://github.com/Danimaru-ze/smtp-test) • [🎨 Fitur](https://github.com/Danimaru-ze/smtp-test) • [⚡ Panduan Cepat](https://github.com/Danimaru-ze/smtp-test)
 
 </div>
 
@@ -138,7 +142,7 @@ smtp-tester/
 ## 🔧 Konfigurasi
 
 ### File Environment
-Buat file `.env` untuk konfigurasi custom:
+Buat file `.env` untuk konfigurasi custom (opsional):
 
 ```env
 # Pengaturan SMTP default
@@ -419,9 +423,7 @@ SOFTWARE.
 
 - 🐛 **Bug Reports**: [GitHub Issues](https://github.com/yourusername/smtp-tester/issues)
 - 💡 **Feature Requests**: [GitHub Discussions](https://github.com/yourusername/smtp-tester/discussions)
-- 📧 **Email**: support@danysetiyawan.com
-- 📖 **Dokumentasi**: [Wiki](https://github.com/yourusername/smtp-tester/wiki)
-- 💬 **Community**: [Telegram Group](https://t.me/smtp-tester-id)
+- 📧 **Email**: danimaru404@gmail.com
 
 ### FAQ
 
